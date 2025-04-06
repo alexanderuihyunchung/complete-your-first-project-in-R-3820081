@@ -1,0 +1,27 @@
+{
+    "id": "D77E6B07",
+    "path": "~/complete-your-first-project-in-R-3820081/Chapter 1/01_02b.Rmd",
+    "project_path": "Chapter 1/01_02b.Rmd",
+    "type": "r_markdown",
+    "hash": "85106724",
+    "contents": "",
+    "dirty": false,
+    "created": 1743967709759.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "36,0",
+        "scrollLine": "5",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743969439,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743969439974,
+    "read_only": false,
+    "read_only_alternatives": []
+}
